@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [VIVEK PANJWANI](https://github.com/vivekpanjwani)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Web Developer
+- Affiliation : Gujarat Technological University
+- GitHub: [vivekpanjwani](https://github.com/vivekpanjwani)
